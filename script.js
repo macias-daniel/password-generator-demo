@@ -31,7 +31,7 @@ function generatePassword() {
 
     //Prompts user and saves their desired password length as long as its not to long or too short
     chooseLength: function (){
-      var length = prompt('How long do you want your password to be?')
+      var length = prompt('How many characters do you want your password to be?')
 
       if(length < 8){
         alert('The password is too short. \nIt must be a minimum of 8 characters.')
