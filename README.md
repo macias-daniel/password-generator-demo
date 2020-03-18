@@ -1,5 +1,8 @@
-## password-generator-demo
+# password-generator-demo
 Demonstrating ability to create password generator logic with multiple user conditions
+
+## GitHub Pages Link
+https://macias-daniel.github.io/password-generator-demo/
 
 ## User Story
 
